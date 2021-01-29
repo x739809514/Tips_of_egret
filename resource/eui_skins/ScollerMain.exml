@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ScollerMainSkin" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="1774ccd7a7a" ></w:Config>
+	<e:Rect width="640" height="1136" x="0" anchorOffsetX="0" anchorOffsetY="0" fillColor="0xf24848"/>
+	<e:Scroller id="scollertest" width="510" height="287" x="71" y="40" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Group id="scr_group" anchorOffsetX="0" width="510" anchorOffsetY="0" height="173">
+			<e:List id="listtest" width="479" height="37" x="18.5" y="18" anchorOffsetX="0" anchorOffsetY="0">
+			</e:List>
+		</e:Group>
+	</e:Scroller>
+</e:Skin>
