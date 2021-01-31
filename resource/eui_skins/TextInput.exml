@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="TextInputSkin" width="400" height="300" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="177574079a0" ></w:Config>
+	<e:Rect width="400" height="300" x="0" y="0" fillColor="0xf76565"/>
+	<e:Rect width="193" height="36" x="99.5" y="132" anchorOffsetX="0" anchorOffsetY="0" fillColor="0xFFFFFF"/>
+	<e:Rect width="193" height="36" x="99.5" y="48" anchorOffsetX="0" anchorOffsetY="0" fillColor="0xffffff"/>
+	<e:EditableText id="UserName" width="201" height="37" text="Label" x="99.5" y="47" anchorOffsetX="0" anchorOffsetY="0" textColor="0x000000"/>
+	<e:EditableText id="password" width="188" height="36" text="Label" x="102" y="131" anchorOffsetX="0" anchorOffsetY="0" textColor="0x000000"/>
+	<e:Button id="btn_ok" label="确认" x="146" y="202"/>
+	<e:Label text="用户名" x="14" y="51" size="25"/>
+	<e:Label text="密码" x="14" y="137.5" size="25"/>
+</e:Skin>
